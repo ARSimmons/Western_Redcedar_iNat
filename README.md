@@ -11,6 +11,7 @@
 # <a name="team-members"></a>Team Members
 * "Arielle Simmons-Steffen" <ari.ucb.fire@gmail.com>
 * "Jonathan Koerber" <jonathankoerber@gmail.com>
+* "Chris Grannan" <cmgrannan88@gmail.com>
 	
 # <a name="project-summary"></a>Project Summary
 Trying to export Western Redcedar observations from the iNaturalist API (observations.json)
